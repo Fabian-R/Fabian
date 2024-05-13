@@ -1,5 +1,5 @@
 # Hello, I'm Fabian
-<a href="www.linkedin.com/in/fabián-robles-ramírez-344175234"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/fabi%C3%A1n-robles-ram%C3%ADrez-344175234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 After an amazing year as a McKinsey intern I've gained valuable experience in the IT field, where it lead me to become a GHD Professional.
 I've honed my skills in areas such as Windows, MacOS, iOS, network, MS Office package, etc. All this while focused on providing outstanding customer service.
@@ -18,7 +18,7 @@ I created this portfolio in order to achieve the following goals:
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Nmap          | <a href="https://drive.google.com/file/d/1u3aJAGHSo4vonzdeFSxv5tMuMr34P03E/view?usp=sharing">Enumeration Lab</a>|
-| OpenVAS | <a href="https://google.com">Detection Lab</a>|
+| OpenVAS, Metasploit and Netcat | <a href="https://google.com">Penetrationg testing</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
