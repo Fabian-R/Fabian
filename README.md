@@ -1,7 +1,7 @@
 # Hello, I'm Fabian
 <a href="https://www.linkedin.com/in/fabi%C3%A1n-robles-ram%C3%ADrez-344175234/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-**This site is still under development**
+| **This site is still under development** |
 
 After an amazing year as a McKinsey intern I've gained valuable experience in the IT field, where it lead me to become a GHD Professional.
 I've honed my skills in areas such as Windows, MacOS, iOS, network, MS Office package, etc. All this while focused on providing outstanding customer service.
@@ -15,7 +15,6 @@ I created this portfolio in order to achieve the following goals:
 3. Increase visibility within the cybersecurity community. This portfolio serves as a launchpad to connect with potential employers and collaborators who share my passion for cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
