@@ -20,9 +20,9 @@ I created this portfolio in order to achieve the following goals:
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Nmap          | <a href="https://drive.google.com/file/d/1u3aJAGHSo4vonzdeFSxv5tMuMr34P03E/view?usp=sharing">Enumeration Lab</a>|
-| OpenVAS, Metasploit and Netcat | <a href="https://drive.google.com/file/d/1eB2wJiM-kGOfu7vvWtQd-Epi3LUKc3bd/view?usp=sharing">Penetration testing</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| OpenVAS, Metasploit and Netcat | <a href="https://drive.google.com/file/d/1eB2wJiM-kGOfu7vvWtQd-Epi3LUKc3bd/view?usp=sharing">Penetration testing lab</a>|
+| PHP & SQL injections         | SQL Injections Lab|
+| Vunerability assesment      | Vunerability assesment Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
