@@ -3,7 +3,7 @@
 
 | **This site is still under development** |
 
-After an amazing year as a McKinsey intern I've gained valuable experience in the IT field, where it lead me to become a GHD Professional.
+After two amazing years at McKinsey, I've gained valuable experience in the IT field, where it lead me to become a GHD Analyst.
 I've honed my skills in areas such as Windows, MacOS, iOS, network, MS Office package, etc. All this while focused on providing outstanding customer service.
 As an student with a passion for cybersecurity, I'm excited to explore the fascinating world of cybersecurity and build a strong foundation in the field.
 
