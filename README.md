@@ -18,7 +18,7 @@ I created this portfolio in order to achieve the following goals:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Enumeration          | <a href="https://drive.google.com/file/d/1u3aJAGHSo4vonzdeFSxv5tMuMr34P03E/view?usp=sharing">Enumeration Lab</a>|
+| Enumeration          | <a href="https://github.com/Fabian-R/Enumeration-Lab">Enumeration Lab</a>|
 | Penetration testing | <a href="https://github.com/Fabian-R/Pentesting-Lab">Penetration testing lab</a>|
 | SQL injections         | <a href="https://github.com/Fabian-R/SQL_INJECTIONS-LAB">SQL Injections Lab</a>| 
 | Vunerability assesment      | Vunerability assesment Lab|
