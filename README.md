@@ -18,15 +18,14 @@ I created this portfolio in order to achieve the following goals:
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Nmap          | <a href="https://drive.google.com/file/d/1u3aJAGHSo4vonzdeFSxv5tMuMr34P03E/view?usp=sharing">Enumeration Lab</a>|
-| OpenVAS, Metasploit and Netcat | <a href="https://github.com/Fabian-R/Pentesting-Lab">Penetration testing lab</a>|
-| PHP & SQL injections         | SQL Injections Lab|
+| Enumeration          | <a href="https://drive.google.com/file/d/1u3aJAGHSo4vonzdeFSxv5tMuMr34P03E/view?usp=sharing">Enumeration Lab</a>|
+| Penetration testing | <a href="https://github.com/Fabian-R/Pentesting-Lab">Penetration testing lab</a>|
+| SQL injections         | <a href="https://github.com/Fabian-R/SQL_INJECTIONS-LAB">SQL Injections Lab</a>| 
 | Vunerability assesment      | Vunerability assesment Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Coming soon                 | |
+| Coming soon | |
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
