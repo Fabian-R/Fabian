@@ -21,9 +21,10 @@ I created this portfolio in order to achieve the following goals:
 | Enumeration          | <a href="https://github.com/Fabian-R/Enumeration-Lab">Enumeration Lab</a>|
 | Penetration testing | <a href="https://github.com/Fabian-R/Pentesting-Lab">Penetration testing lab</a>|
 | SQL injections         | <a href="https://github.com/Fabian-R/SQL_INJECTIONS-LAB">SQL Injections Lab</a>| 
-| Vunerability assesment      | Vunerability assesment Lab|
-| Coming soon                 | |
-| Coming soon | |
+| Audit and Reporting        | <a href="https://github.com/Fabian-R/Manage-Security-Risks-Lab">Manage Security Risks Lab</a>| 
+| Incident report analysis                |Coming soon|
+| Vulnerability Assessment | Coming soon |
+| SQL queries                 | Coming soon |
 
 ## Tools
 
