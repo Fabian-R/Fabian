@@ -26,6 +26,11 @@ I created this portfolio in order to achieve the following goals:
 | Vulnerability Assessment | Coming soon |
 | SQL queries                 | Coming soon |
 
+## Research Papers 
+- NIS2 Information Security
+- More coming soon
+
+- 
 ## Tools
 
 ### Network
@@ -47,6 +52,4 @@ I created this portfolio in order to achieve the following goals:
 
 
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
