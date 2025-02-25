@@ -27,10 +27,9 @@ I created this portfolio in order to achieve the following goals:
 | SQL queries                 | Coming soon |
 
 ## Research Papers 
-- NIS2 Information Security
+- <a href="https://github.com/Fabian-R/NIS2-IDENTITY-SECURITY">NIS2 IDENTITY SECURITY</a>
 - More coming soon
 
-- 
 ## Tools
 
 ### Network
